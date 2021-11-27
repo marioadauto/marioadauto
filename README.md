@@ -1,13 +1,12 @@
 ### Hi there, I'm Mario Silva 👋
 
 
-## I'm Frontend Engineer In 🚀  <a href="https://www.maersk.com">Adoption/Growth Hacking at A.P. Moller - Maersk </a>
+## I'm Frontend Engineer 
 
 <img align="center" alt="GIF" src="https://media3.giphy.com/media/3ohzdXIKl0BjNK2g3m/giphy.gif" />
 
 - Based in Copenhagen - DK
 - A strong believer in data-driven decision making 🚀 
-- 🔭 I’m currently working on GTM to inject new experiments
 <br />
 
 
@@ -42,11 +41,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/marioadauto)
 
-⭐️ From [mario-silva-maersk](https://github.com/marioadauto)
-
 [twitter]: https://twitter.com/marioeadauto
 [instagram]: https://www.instagram.com/mario.e.silva/
 [linkedin]: https://www.linkedin.com/in/marioesilva/
 [github]: https://github.com/marioadauto
-[maersk] : https://www.maersk.com
 

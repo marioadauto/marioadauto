@@ -3,8 +3,6 @@
 
 ## I'm Frontend Engineer 
 
-<img align="center" alt="GIF" src="https://media3.giphy.com/media/3ohzdXIKl0BjNK2g3m/giphy.gif" />
-
 - Based in Copenhagen - DK
 - A strong believer in data-driven decision making 🚀 
 <br />

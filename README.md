@@ -24,6 +24,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg" />
 <img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />

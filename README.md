@@ -3,7 +3,6 @@
 
 ## I'm Frontend Engineer 
 
-- Based in Copenhagen - DK
 - A strong believer in data-driven decision making 🚀 
 <br />
 
